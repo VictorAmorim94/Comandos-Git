@@ -2,5 +2,6 @@ ls -> Lista os arquivos da pasta
 ls -a -> Mostra todos os arquivos, até os ocultos
 pwd -> Mostra o local que estamos
 mkdir -> Cria uma pasta
+cat -> Exibe conteudo do arquivo
 rm -rf -> Excluir pasta
 
