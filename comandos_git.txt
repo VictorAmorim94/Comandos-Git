@@ -6,3 +6,13 @@ git log -> verificar todo o log de commits daquele diretório
 
  git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
+
+
+##Fluxo de Trablaho
+1 - Criar o repositório
+2 - Iniciar o git dentro do diretório
+3 - Edita ou cria arquivos
+4 - git status
+5 - git add <nome do arquivo>
+6 - git commit -m "Mensagem"
+7 - volta passo 3
