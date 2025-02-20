@@ -1,0 +1,6 @@
+ls -> Lista os arquivos da pasta
+ls -a -> Mostra todos os arquivos, até os ocultos
+pwd -> Mostra o local que estamos
+mkdir -> Cria uma pasta
+rm -rf -> Excluir pasta
+
