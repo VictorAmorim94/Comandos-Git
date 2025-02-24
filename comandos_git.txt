@@ -8,7 +8,8 @@ git log -> verificar todo o log de commits daquele diretório
 git reset -> Altera o estado do arquivo se ele estiver preparado para subir no commit ou não 
 git checkout -> Cria uma nova branc e muda o ramo da branch
 git branch -> Mostra todas as branchs do projeto *a branch atual é destacada*
-git remote add oring "endereço do github" -> vincula o repositóri local com o que está no github
+git remote add oring "endereço do github" -> vincula o repositóri local com o que está na nuvem
+git push -> Envia as alterações realizadas na branch atual para a na nuvem
 git merge -> Junta as informações da que você quer com a que vocÊ está. 
 ## Fluxo para da merge
   Estou na branch main e quero carregar os arquivos da secundaria, eu preciso garantir que estou na branch main, mas podemos usar
